@@ -1,3 +1,7 @@
 /data/**
 !/data/**/
 !/data/**/.gitkeep
+
+/resources
+!/resources/taggers/FA_MedRed_glove_roberta/training.log
+
